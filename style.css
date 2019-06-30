@@ -1,0 +1,49 @@
+#app {
+  /* margin-left: 100px; */
+}
+body {
+  margin: 0 auto;
+}
+
+#canvas {
+  display: block;
+}
+
+#slopeBtn {
+  /* display: block; */
+}
+
+#clearBtn {
+  /* float: right; */
+}
+
+#toolbar {
+  width: 222px;
+}
+
+.btn {
+  /* width: 60px; */
+  height: 50px;
+  margin-top: 15px;
+  background: transparent;
+  border: 2px solid #0099cc;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+.btn:hover {
+  background-color: #0099cc;
+  color: white;
+}
+
+.btn-small {
+  width: 80px;
+}
+
+.navbar {
+  height: 30px;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #8a8a8a;
+}
